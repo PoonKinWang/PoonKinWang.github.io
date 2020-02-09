@@ -1,3 +1,15 @@
+---
+layout: archive
+title: ""
+permalink: /experience/
+author_profile: true
+redirect_from:
+  - /resume
+
+---
+
+{% include base_path %}
+
 * [Intership at DiDi Inc.](<https://www.didiglobal.com/>)
   * Nov. 2019 - Present
   * Hangzhou, China
