@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 {% include base_path %}
 
-# Conference Proceedings
+## Conference Proceedings
 
 * Neural Network-Based Deep Encoding for Mixed-Attribute Data Classification. [[PAKDD2019](<https://link.springer.com/chapter/10.1007%2F978-3-030-26142-9_14>)]
   * **Tinglin Huang**, Yulin He, De-Xin Dai, Wenting Wang, Joshua Zhexue Huang
