@@ -18,7 +18,7 @@ redirect_from:
   * Macau, China
   * Attent the BDM workshop and present talks [[photo](/images/pakdd-1.jpeg)]
 * [KDD China 2019](<http://kddchina.org/#/Content/fenghui2019>)
-  * Jan. 2019
+  * 19 Jan. 2019
   * Shenzhen, China
   * Attent the conference [[photo](/images/kdd-china1.jpg)], [[photo](/images/kdd-china2.jpg)], [[photo](/images/kdd-china3.jpg)], [[photo](/images/kdd-china4.jpg)]
 * Student Researcher Assistant at [BDSC](<http://bdsc.szu.edu.cn/>)
