@@ -1,6 +1,5 @@
 ---
 title: "Publications"
-collection: publications
 permalink: /publications/
 ---
 {% include base_path %}
