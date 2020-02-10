@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae](/files/cv_Tinglin Huang.pdf)
+[Click to View My Up-to-date Curriculum Vitae](/files/huangtinglin_cv.pdf)
 
