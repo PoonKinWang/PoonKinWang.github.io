@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Tinglin Huang"
 title_separator          : "-"
-name                     : &name "Tinglin Huang(黄庭霖)"
+name                     : &name "Tinglin Huang"
 description              : &description "personal description"
 url                      : https://huangtinglin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tinglin Huang(黄庭霖)"
+  name             : "Tinglin Huang"
   avatar           : "avatar.jpg"
   bio              : "A postgraduate student in Zhejiang University"
   location         : "Hangzhou, China"
