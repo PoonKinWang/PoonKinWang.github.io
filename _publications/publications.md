@@ -11,3 +11,7 @@ permalink: /publications/
 * Learning Affective Features Based on VIP for Video Affective Content Analysis. [[PCM2018](<https://link.springer.com/chapter/10.1007%2F978-3-030-00764-5_64>)]
   * Yingying Zhu, Min Tong, **Tinglin Huang**, Zhenkun Wen, Qi Tian
 
+## Manuscripts In Preparation
+
+* RIAP: A method for Effective Receptive Field Rectification
+  * Jianhong Pan, **Tinglin Huang**, Xuan Yang
