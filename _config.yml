@@ -11,7 +11,7 @@ title                    : "Jianhong Pan"
 title_separator          : "-"
 name                     : &name "Jianhong Pan"
 description              : &description "personal description"
-url                      : https://huangtinglin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://poonkinwang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "PoonKinWang/PoonKinWang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,29 +80,29 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tinglin Huang"
+  name             : "Jianhong Pan"
   avatar           : "avatar.jpg"
-  bio              : "A postgraduate student in Zhejiang University"
-  location         : "Hangzhou, China"
+  bio              : "A research assistant in National High Performance Computing Center"
+  location         : "Shenzhen, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "huangtinglin@outlook.com"
+  email            : "poonkinwang@outlook.com"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://www.zhihu.com/people/lin-lin-lin-zhu-75"
+  #uri              : "https://www.zhihu.com/people/lin-lin-lin-zhu-75"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "huangtinglin"
+  github           : "PoonKinWang"
   google_plus      :
   keybase          :
   # instagram        :
   # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   # lastfm           :
-  linkedin         : "%E5%BA%AD%E9%9C%96-%E9%BB%84-3ab961171/?locale=en_US"
+  linkedin         : "https://www.linkedin.com/in/poonkinwang/"
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
