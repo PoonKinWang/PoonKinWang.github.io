@@ -20,9 +20,5 @@ redirect_from:
   * Explored the potential of efficient CNN structures for image classification. Proposed the Separable Network (SepNet). Experimental results show that it is state-of-the-art in the speed-accuracy tradeoff. This work was submitted to ECCV 2020.
   * Optimized the depthwise convolution for 3D image using PyTorch, which significantly improved inference speed (the original algorithm uses group convolution to process 3D image).
 
-* Student Researcher Assistant at [BDSC](<http://bdsc.szu.edu.cn/>)
-  * May. 2017 - May. 2019
-  * Supervised by Prof. [Joshua Zhexue Huang](<https://ieeexplore.ieee.org/author/37081979900>)
-
 
 
