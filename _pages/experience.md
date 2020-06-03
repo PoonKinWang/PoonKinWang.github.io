@@ -9,18 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-* Intership at [DiDi Inc.](<https://www.didiglobal.com/>)
-  * Nov. 2019 - Present
-  * Hangzhou, China
-  * Explore reinforcement learning in recommendation system
-* [PAKDD 2019](<https://pakdd2019.medmeeting.org/en>)
-  * 14 - 17 Apr. 2019
-  * Macau, China
-  * Attent the BDM workshop and present talks [[photo](/images/pakdd-1.jpeg)]
-* [KDD China 2019](<http://kddchina.org/#/Content/fenghui2019>)
-  * 19 Jan. 2019
+* Research Assistant at [National High Performance Computing Center](<http://nhpcc.szu.edu.cn>)
+  * Nov. 2018 - Present
+  * Supervised by Prof. [Xuan Yang](<http://nhpcc.szu.edu.cn/web/view66c9.html?path=154-184-&id=667>)
   * Shenzhen, China
-  * Attent the conference as a volunteer [[photo](/images/kdd-china1.jpg)], [[photo](/images/kdd-china2.jpg)], [[photo](/images/kdd-china3.jpg)], [[photo](/images/kdd-china4.jpg)]
+  * Explore super resolution for biomedical image.
+  * Engaged in some research projects about biomedical image segmentation for glomerulus, where the ground truth are weak-label.
+  * Engaged in some research projects about biomedical image segmentation for glomerulus, where the ground truth are weak-label.
+  * Explored why same-padding causes information decay and the effective receptive field does not present uniformed distribution, and attempt to fix it. Experiments on image classification demonstrate it can increases network accuracy. This work was submitted to ECCV 2020.
+  * Explored the potential of efficient CNN structures for image classification. Proposed the Separable Network (SepNet). Experimental results show that it is state-of-the-art in the speed-accuracy tradeoff. This work was submitted to ECCV 2020.
+  * Optimized the depthwise convolution for 3D image using PyTorch, which significantly improved inference speed (the original algorithm uses group convolution to process 3D image).
+
 * Student Researcher Assistant at [BDSC](<http://bdsc.szu.edu.cn/>)
   * May. 2017 - May. 2019
   * Supervised by Prof. [Joshua Zhexue Huang](<https://ieeexplore.ieee.org/author/37081979900>)
